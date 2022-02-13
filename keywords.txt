@@ -1,0 +1,50 @@
+#######################################
+# Syntax Coloring Map For MicroChip3424
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MCP3424	KEYWORD1
+config	KEYWORD1
+address	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+generalCallReset        KEYWORD2
+generalCallLatch        KEYWORD2
+generalCallConversion   KEYWORD2
+configADC               KEYWORD2
+startConvert            KEYWORD2
+findAddress             KEYWORD2
+read                    KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+addrLo			   LITERAL1
+addrHi			   LITERAL1
+Channel1			   LITERAL1
+Channel2			   LITERAL1
+Channel3			   LITERAL1
+Channel4			   LITERAL1
+Oneshot			   LITERAL1
+Continous			LITERAL1
+Res12				   LITERAL1
+Res14				   LITERAL1
+Res16				   LITERAL1
+Res18				   LITERAL1
+Gain1				   LITERAL1
+Gain2				   LITERAL1
+Gain4				   LITERAL1
+Gain8				   LITERAL1
+busError			   LITERAL1
+notReady			   LITERAL1
+Ready				   LITERAL1
+
+
+
+
